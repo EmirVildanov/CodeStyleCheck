@@ -1,0 +1,52 @@
+D:
+- D100: Missing docstring in public module
+- D101: Missing docstring in public class
+- D101: Missing docstring in public class
+- D101: Missing docstring in public class
+- D101: Missing docstring in public class
+- D102: Missing docstring in public method
+- D103: Missing docstring in public function
+- D103: Missing docstring in public function
+- D103: Missing docstring in public function
+- D107: Missing docstring in __init__
+- D107: Missing docstring in __init__
+- D107: Missing docstring in __init__
+- D107: Missing docstring in __init__
+E:
+- E203: whitespace before ':'
+- E265: block comment should start with '# '
+- E265: block comment should start with '# '
+- E302: expected 2 blank lines, found 1
+- E302: expected 2 blank lines, found 0
+- E302: expected 2 blank lines, found 1
+- E302: expected 2 blank lines, found 1
+N:
+- N801: class name 'test_class_With_strangeName' should use CapWords convention
+- N802: function name 'CHeckIfNumber_odd' should be lowercase
+Q:
+- Q000: Remove bad quotes
+- Q000: Remove bad quotes
+- Q000: Remove bad quotes
+- Q000: Remove bad quotes
+- Q000: Remove bad quotes
+- Q000: Remove bad quotes
+- Q000: Remove bad quotes
+W:
+- W292: no newline at end of file
+- W292: no newline at end of file
+- W292: no newline at end of file
+WPS:
+- WPS212: 'Found too many return statements: 7 > 5'
+- WPS223: 'Found too many `elif` branches: 5 > 3'
+- WPS231: 'Found function with too much cognitive complexity: 21 > 12'
+- WPS238: 'Found too many raises in a function: 5 > 3'
+- WPS305: Found `f` string
+- WPS305: Found `f` string
+- WPS305: Found `f` string
+- WPS306: 'Found class without a base class: Test'
+- WPS306: 'Found class without a base class: test_class_With_strangeName'
+- WPS336: Found explicit string concatenation
+- WPS421: 'Found wrong function call: print'
+- WPS421: 'Found wrong function call: print'
+- WPS421: 'Found wrong function call: print'
+- WPS421: 'Found wrong function call: print'
